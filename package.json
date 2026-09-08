@@ -1,0 +1,8 @@
+{
+  "name":"insync-operations-live",
+  "version":"1.0.0",
+  "private":true,
+  "description":"INSYNC Operations secure backend and AI Admin gateway",
+  "scripts":{"start":"node server.js"},
+  "engines":{"node":">=20"}
+}
